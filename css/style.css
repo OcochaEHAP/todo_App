@@ -9,6 +9,7 @@ body {
   justify-content: center;
   background: linear-gradient(#f00000, #dc281e);
   font-family: sans-serif;
+  overflow-x: hidden;
 }
 button:hover {
   cursor: pointer;
